@@ -28,16 +28,16 @@ Slicers: Added for Roast Type and two other key dimensions to allow intuitive fi
     
 📈 Dashboard Features  
   
-● Line Chart  
+- Line Chart  
    - Total sales over time  
    - Split by coffee type for trend comparison  
-● Bar Chart  
+- Bar Chart  
    - Sales by country to analyze regional performance  
-● Top 5 Customers  
+- Top 5 Customers  
    - Horizontal bar chart showing highest-value customers  
-● Interactive Timeline  
+- Interactive Timeline  
    - Scrollable date filter that updates all visuals in real time  
-● Slicers  
+- Slicers  
    - Roast Type  
    - Two additional category-based filters for drilling into specific segments  
   
